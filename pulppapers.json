@@ -3,9 +3,7 @@
 		{
 			"name": "Abstract Evergreen",
 			"author": "@fiorellinochka",
-			"url": "https://github.com/lemonpulpdev/wallpapersAbstract Evergreen.JPG",
-			"thumbnail": "https://github.com/lemonpulpdev/wallpaperthumbnailsAbstract Evergreen RESIZED.jpg",
-			"downloadable": true,
+			"url": "https://raw.githubusercontent.com/lemonpulpdev/wallpapers/master/Abstract Evergreen.JPG",
 			"dimensions": "2000 x 3000",
 			"copyright": "lemonpulp"
 		},
@@ -13,7 +11,6 @@
 			"name": "Berries",
 			"author": "Aaron Burden",
 			"url": "https://github.com/lemonpulpdev/wallpapersBerries.jpg",
-			"thumbnail": "https://github.com/lemonpulpdev/wallpaperthumbnailsBerriesRESIZED",
 			"dimensions": "4608 x 3456",
 			"copyright": "Copyright 2019 unsplash.com. All rights reserved"
 		},
@@ -28,7 +25,6 @@
 			"name": "Sorel, Canada",
 			"author": "Alexandre Guimont",
 			"url": "https://github.com/lemonpulpdev/wallpapersCanadaSorel.jpg",
-			"thumbnail": "https://github.com/lemonpulpdev/wallpaperthumbnailsCanadaSorelRESIZED",
 			"dimensions": "2972 x 3768",
 			"copyright": "Copyright 2019 unsplash.com. All rights reserved"
 		},
@@ -99,7 +95,6 @@
 			"name": "Evegreen Branch 1",
 			"author": "lemonpulp",
 			"url": "https://github.com/lemonpulpdev/wallpapersEvegreen Branch 1.jpg",
-			"thumbnail": "https://github.com/lemonpulpdev/wallpaperthumbnailsEvegreen Branch 1RESIZED",
 			"dimensions": "3813 x 2998",
 			"copyright": "lemonpulp"
 		},
@@ -107,7 +102,6 @@
 			"name": "Evegreen Branch 2",
 			"author": "lemonpulp",
 			"url": "https://github.com/lemonpulpdev/wallpapersEvegreen Branch 2.jpg",
-			"thumbnail": "https://github.com/lemonpulpdev/wallpaperthumbnailsEvegreen Branch 2RESIZED",
 			"dimensions": "3008 x 4016",
 			"copyright": "lemonpulp"
 		},
